@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Fhurup/CA3_startcode.svg?branch=master)](https://travis-ci.com/Fhurup/CA3_startcode)
+[![Build Status](https://travis-ci.com/jacmac2812/JCA3-backend.svg?branch=master)](https://travis-ci.com/jacmac2812/JCA3-backend)
 
 *This project is meant as start code for projects and exercises given in Flow-1+2 at http://cphbusiness.dk in the Study Program "AP degree in Computer Science"*
 
